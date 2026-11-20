@@ -1,5 +1,7 @@
 # Version
 
+[![JitPack](https://jitpack.io/v/Brendan-Black/Version.svg)](https://jitpack.io/#Brendan-Black/Version)
+
 Compares version strings in Java. One class, Java 17+, in two flavours: one with no dependencies at all, and one that
 also implements [`black.TypedString`](https://github.com/Brendan-Black/TypedString).
 
